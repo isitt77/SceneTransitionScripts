@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class EnterExitStore : MonoBehaviour
+public class EnterExitScene : MonoBehaviour
 {
     // Set Player spawn position for next scene.
     [SerializeField]
